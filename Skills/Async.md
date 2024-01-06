@@ -1,8 +1,8 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: 👂 heard
-  - try..catch: 🖐️ used
+  - Event loop: 🎓 known
+  - try..catch: 🙋 explained
   - Non-blocking: 👂 heard
   - Async I/O: 👂 heard
   - Thread pool: 🖐️ used
@@ -17,22 +17,22 @@
   - Dead locks: 👂 heard
   - Live locks: 👂 heard
   - Concurrent programming: 👂 heard
-  - Parallel programming: 👂 heard
+  - Parallel programming: 🎓 known
   - Actor Model: 👂 heard
   - Thread: 🖐️ used
   - Process
 - Async contracts
-  - Callbacks: 🖐️ used
+  - Callbacks: 🙋 explained
   - Callback-last-error-first: 👂 heard
   - Thenable: 🖐️ used
-  - Promise: 🖐️ used
-  - Async/await: 🖐️ used
+  - Promise: 🙋 explained
+  - Async/await: 🙋 explained
   - Future
   - Deferred
   - Sync generator: 👂 heard
   - Async Generator: 👂 heard
   - Async Iterator: 👂 heard
-  - Event: 👂 heard
+  - Event: 🎓 known
   - Coroutine: 👂 heard
   - Goroutine
   - Signal: 👂 heard
@@ -84,10 +84,10 @@
   - async.js library: 👂 heard
   - RxJS library
   - Async composition: 👂 heard
-  - Promise.all: 🖐️ used
+  - Promise.all: 🙋 explained
   - Promise.allSettled: 🖐️ used
-  - Promise.race: 🖐️ used
-  - Promise.any: 🖐️ used
+  - Promise.race: 🙋 explained
+  - Promise.any: 🙋 explained
   - Web Locks API: 👂 heard
   - IPC: 👂 heard
   - Channel API: 👂 heard

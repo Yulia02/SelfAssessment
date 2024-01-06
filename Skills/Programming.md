@@ -1,18 +1,18 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value: 🖐️ used
-  - identifier: 🖐️ used
-  - variable: 🖐️ used
-  - constant: 🖐️ used
-  - scalar: 🖐️ used
-  - literal: 🖐️ used
-  - expression: 🖐️ used
+  - value: 🙋 explained
+  - identifier: 🙋 explained
+  - variable: 🙋 explained
+  - constant: 🙋 explained
+  - scalar: 🙋 explained
+  - literal: 🙋 explained
+  - expression: 🙋 explained
   - heap: 🎓 known
-  - function: 🖐️ used
-  - procedure: 🖐️ used
-  - method: 🖐️ used
-  - class: 🖐️ used
+  - function: 🙋 explained
+  - procedure: 🙋 explained
+  - method: 🙋 explained
+  - class: 🙋 explained
   - prototype: 🖐️ used
   - event: 🖐️ used
   - type: 🖐️ used
@@ -20,9 +20,9 @@
   - reference types: 🖐️ used
   - flag: 🖐️ used
   - lexical scope: 🖐️ used
-  - code block: 🖐️ used
-  - conditions: 🖐️ used
-  - loops: 🖐️ used
+  - code block: 🙋 explained
+  - conditions: 🙋 explained
+  - loops: 🙋 explained
   - assignment: 🖐️ used
   - regular expression: 🎓 known
   - interface: 🖐️ used
@@ -31,37 +31,37 @@
   - call stack: 🎓 known
 - Functions
   - signature: 🖐️ used
-  - argument: 🖐️ used
-  - parameter: 🖐️ used
+  - argument: 🙋 explained
+  - parameter: 🙋 explained
   - pure function: 🎓 known
-  - lambda expression: 🖐️ used
+  - lambda expression: 🙋 explained
   - side effects: 🎓 known
   - closure: 🖐️ used
-  - partial application: 🖐️ used
-  - curry: 🖐️ used
+  - partial application: 🙋 explained
+  - curry: 🙋 explained
   - higher order: 🖐️ used
-  - recursion: 🖐️ used
-  - callback: 🖐️ used
+  - recursion: 🙋 explained
+  - callback: 🙋 explained
   - listener: 🖐️ used
   - compose: 🎓 known
   - pipe: 🎓 known
-  - memoize: 🖐️ used
-  - wrapper: 🖐️ used
+  - memoize: 🙋 explained
+  - wrapper: 🙋 explained
   - functor: 🖐️ used
   - monad: 🖐️ used
   - monoid: 🎓 known
   - generator: 🎓 known
   - coroutine: 👂 heard
 - Data structures
-  - array: 🖐️ used
+  - array: 🙋 explained
   - structure: 🖐️ used
   - record: 🎓 known
   - enum: 🖐️ used
   - instance: 🖐️ used
-  - object: 🖐️ used
-  - class: 🖐️ used
-  - collection: 🖐️ used
-  - set: 🖐️ used
+  - object: 🙋 explained
+  - class: 🙋 explained
+  - collection: 🙋 explained
+  - set: 🙋 explained
   - hash table: 🖐️ used
   - linked list: 🖐️ used
   - doubly list: 🖐️ used
@@ -87,8 +87,8 @@
   - refactoring: 🖐️ used
   - code review: 🖐️ used
   - antipatterns: 🎓 known
-  - paradigm: 🖐️ used
-  - algorithm: 🖐️ used
+  - paradigm: 🙋 explained
+  - algorithm: 🙋 explained
   - magic numbers: 🎓 known
   - hardcode: 🎓 known
   - complexity: 👂 heard

@@ -1,20 +1,20 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object: 🖐️ used
+  - Object: 🙋 explained
   - this: 🖐️ used
-  - arrow function: 🖐️ used
-  - async function: 🖐️ used
-  - call: 🎓 known
-  - bind: 🖐️ used
-  - apply: 🎓 known
+  - arrow function: 🙋 explained
+  - async function: 🙋 explained
+  - call: 🖐️ used
+  - bind: 🙋 explained
+  - apply: 🖐️ used
   - instanceof: 🖐️ used
-  - ...spread: 🖐️ used
-  - ...rest: 🖐️ used
-  - typeof: 🖐️ used
-  - destructuring: 🖐️ used
+  - ...spread: 🙋 explained
+  - ...rest: 🙋 explained
+  - typeof: 🙋 explained
+  - destructuring: 🙋 explained
   - generator: 🎓 known
-  - iterator: 🖐️ used
+  - iterator: 🙋 explained
   - async generator: 👂 heard
   - async iterator: 👂 heard
   - chaining: 🎓 known
@@ -26,11 +26,11 @@
   - getters and setters: 🖐️ used
   - __proto__: 🎓 known
   - prototype: 🖐️ used
-  - equality operators: 🖐️ used
-  - logical operators: 🖐️ used
-  - bitwise operators: 🖐️ used
-  - ternary operator: 🖐️ used
-  - void: 🖐️ used
+  - equality operators: 🙋 explained
+  - logical operators: 🙋 explained
+  - bitwise operators: 🙋 explained
+  - ternary operator: 🙋 explained
+  - void: 🙋 explained
   - yield: 🎓 known
   - await: 🖐️ used
   - template literal: 🖐️ used
@@ -41,45 +41,45 @@
   - Symbol: 🎓 known
   - Reflect: 👂 heard
 - Statements
-  - if: 🖐️ used
-  - while: 🖐️ used
-  - do..while: 🖐️ used
-  - for: 🖐️ used
-  - for..in: 🖐️ used
-  - for..of: 🖐️ used
+  - if: 🙋 explained
+  - while: 🙋 explained
+  - do..while: 🙋 explained
+  - for: 🙋 explained
+  - for..in: 🙋 explained
+  - for..of: 🙋 explained
   - for await: 🖐️ used
-  - throw: 🖐️ used
-  - break: 🖐️ used
-  - continue: 🖐️ used
-  - import: 🖐️ used
-  - export: 🖐️ used
+  - throw: 🙋 explained
+  - break: 🙋 explained
+  - continue: 🙋 explained
+  - import: 🙋 explained
+  - export: 🙋 explained
   - label: 🎓 known
-  - try..catch: 🖐️ used
-  - switch: 🖐️ used
-  - class: 🖐️ used
-  - new Error: 🖐️ used
+  - try..catch: 🙋 explained
+  - switch: 🙋 explained
+  - class: 🙋 explained
+  - new Error: 🙋 explained
   - with
 - Functions
-  - function declaration: 🖐️ used
-  - function expression: 🖐️ used
-  - return: 🖐️ used
-  - default parameters: 🖐️ used
+  - function declaration: 🙋 explained
+  - function expression: 🙋 explained
+  - return: 🙋 explained
+  - default parameters: 🙋 explained
   - functional object: 🎓 known
 - Data structures
-  - Array: 🖐️ used
+  - Array: 🙋 explained
   - mixin: 👂 heard
   - extend: 🖐️ used
   - typed arrays: 🎓 known
-  - Map: 🖐️ used
-  - Set: 🖐️ used
-  - undefined: 🖐️ used
-  - null: 🖐️ used
+  - Map: 🙋 explained
+  - Set: 🙋 explained
+  - undefined: 🙋 explained
+  - null: 🙋 explained
   - Proxy: 🖐️ used
   - weak collections: 🎓 known
   - timers: 🖐️ used
   - EventEmitter: 🎓 known
-  - RegExp: 🎓 known
-  - Date: 🖐️ used
+  - RegExp: 🖐️ used
+  - Date: 🙋 explained
   - BigInt: 🖐️ used
 - Infrastructure
   - V8: 🎓 known

@@ -66,8 +66,8 @@
   - Separation of concerns
   - Inversion of control: 👂 heard
   - Dependency injection: 👂 heard
-  - GRASP: 👂 heard
-  - SOLID: 👂 heard
+  - GRASP: 🎓 known
+  - SOLID: 🎓 known
   - GoF patterns
   - Distributed systems
   - Highload applications
@@ -76,13 +76,13 @@
   - Message Queue: 👂 heard
   - CQS
   - CQRS
-  - Event sourcing
-  - Load balancing
+  - Event sourcing: 👂 heard
+  - Load balancing: 👂 heard
   - Serverless clouds
   - FaaS clouds
-  - Fat controller
+  - Fat controller: 👂 heard
   - GoF for Node.js
-  - Leaking abstractions
+  - Leaking abstractions: 👂 heard
 - Network
   - IP sticky sessions: 👂 heard
   - Endpoint throttling: 👂 heard
