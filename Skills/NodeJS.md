@@ -15,7 +15,7 @@
   - ECMAScript modules: 👂 heard
   - node:module: 🎓 known
   - Caching in CJS and ESM
-  - Modules as singletons
+  - Modules as singletons: 👂 heard
   - Contexts and scripts node:vm: 👂 heard
   - Dependencies: npm, node_modules: 🎓 known
   - Dependencies: package.json and package lock: 🎓 known
@@ -26,7 +26,7 @@
   - Coupling and cohesion: 👂 heard
   - Framework agnostic approach: 👂 heard
 - Environment
-  - Command line arguments: 👂 heard
+  - Command line arguments: 🖐️ used
   - Node.js CLI: 👂 heard
   - Process-based permissions: 👂 heard
   - Graceful shutdown: 👂 heard
@@ -68,9 +68,9 @@
   - Dependency injection: 👂 heard
   - GRASP: 🎓 known
   - SOLID: 🎓 known
-  - GoF patterns
-  - Distributed systems
-  - Highload applications
+  - GoF patterns: 👂 heard
+  - Distributed systems: 👂 heard
+  - Highload applications: 👂 heard
   - Clean architecture: 👂 heard
   - DDD
   - Message Queue: 👂 heard
@@ -148,7 +148,7 @@
   - Debugging tools: 🖐️ used
   - Flame graph
   - Memory leaks: 👂 heard
-  - Resource leaks
+  - Resource leaks: 👂 heard
   - Data race: 👂 heard
 - Integrations and bindings
   - Native addons: 👂 heard

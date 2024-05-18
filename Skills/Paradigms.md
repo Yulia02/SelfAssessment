@@ -23,22 +23,22 @@
 - OOP basics
   - constructor: 🙋 explained
   - new: 🙋 explained
-  - Static method: 🖐️ used
-  - Method: 🖐️ used
-  - Async method: 🖐️ used
-  - Getters, Setters: 🖐️ used
+  - Static method: 🙋 explained
+  - Method: 🙋 explained
+  - Async method: 🙋 explained
+  - Getters, Setters: 🙋 explained
   - Public fields: 🙋 explained
   - Private fields: 🙋 explained
-  - Field declarations: 🖐️ used
+  - Field declarations: 🙋 explained
   - Inheritance: 🖐️ used
-  - Parent class: 🖐️ used 
+  - Parent class: 🙋 explained
   - Polymorphism: 🎓 known
-  - Abstract class: 🎓 known
+  - Abstract class: 🙋 explained
   - Interface: 🖐️ used
   - Encapsulation: 🎓 known
   - Hidden class: 👂 heard
   - Object form: 👂 heard
-  - instance: 🖐️ used
+  - instance: 🙋 explained
   - Introspection
   - Reflection: 👂 heard
 - Patterns
