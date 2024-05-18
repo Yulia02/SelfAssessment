@@ -1,7 +1,7 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: 🎓 known
+  - Event loop: 🙋 explained
   - try..catch: 🙋 explained
   - Non-blocking: 👂 heard
   - Async I/O: 👂 heard
@@ -17,22 +17,22 @@
   - Dead locks: 👂 heard
   - Live locks: 👂 heard
   - Concurrent programming: 👂 heard
-  - Parallel programming: 🎓 known
+  - Parallel programming: 🖐️ used
   - Actor Model: 👂 heard
   - Thread: 🖐️ used
   - Process
 - Async contracts
   - Callbacks: 🙋 explained
   - Callback-last-error-first: 👂 heard
-  - Thenable: 🖐️ used
+  - Thenable: 🙋 explained
   - Promise: 🙋 explained
   - Async/await: 🙋 explained
   - Future
   - Deferred
-  - Sync generator: 👂 heard
-  - Async Generator: 👂 heard
+  - Sync generator: 🖐️ used
+  - Async Generator: 🖐️ used
   - Async Iterator: 👂 heard
-  - Event: 🎓 known
+  - Event: 🙋 explained
   - Coroutine: 👂 heard
   - Goroutine
   - Signal: 👂 heard
@@ -42,12 +42,12 @@
   - Locks: 👂 heard
 - Async adapters and utils
   - callbackify: 👂 heard
-  - promisify: 👂 heard
-  - asyncify
-  - callbacks compose
+  - promisify: 🖐️ used
+  - asyncify: 👂 heard
+  - callbacks compose: 👂 heard
   - async compose: 👂 heard
 - Async abstractions interfaces
-  - EventEmitter: 🎓 known
+  - EventEmitter: 🖐️ used
   - Observable/Observer: 🎓 known
   - Readable: 👂 heard
   - Writable: 👂 heard
@@ -66,7 +66,7 @@
   - AbortSignal: 👂 heard
   - Promise unhandled rejection: 🎓 known
   - Promise double resolve: 👂 heard
-  - child_process
+  - child_process: 👂 heard
   - worker_threads: 👂 heard
   - Atomics
   - High resolution clock

@@ -2,22 +2,22 @@
 
 - Language
   - Object: 🙋 explained
-  - this: 🖐️ used
+  - this: 🙋 explained
   - arrow function: 🙋 explained
   - async function: 🙋 explained
-  - call: 🖐️ used
+  - call: 🙋 explained
   - bind: 🙋 explained
-  - apply: 🖐️ used
-  - instanceof: 🖐️ used
+  - apply: 🙋 explained
+  - instanceof: 🙋 explained
   - ...spread: 🙋 explained
   - ...rest: 🙋 explained
   - typeof: 🙋 explained
   - destructuring: 🙋 explained
-  - generator: 🎓 known
+  - generator: 🖐️ used
   - iterator: 🙋 explained
-  - async generator: 👂 heard
+  - async generator: 🖐️ used
   - async iterator: 👂 heard
-  - chaining: 🎓 known
+  - chaining: 🖐️ used
   - optional chaining: 🖐️ used
   - IIFE: 🖐️ used
   - global: 🎓 known
@@ -31,13 +31,13 @@
   - bitwise operators: 🙋 explained
   - ternary operator: 🙋 explained
   - void: 🙋 explained
-  - yield: 🎓 known
+  - yield: 🖐️ used
   - await: 🖐️ used
   - template literal: 🖐️ used
   - strict mode: 🖐️ used
   - delete: 🖐️ used
   - in: 🖐️ used
-  - super: 🎓 known
+  - super: 🖐️ used
   - Symbol: 🎓 known
   - Reflect: 👂 heard
 - Statements
@@ -64,7 +64,7 @@
   - function expression: 🙋 explained
   - return: 🙋 explained
   - default parameters: 🙋 explained
-  - functional object: 🎓 known
+  - functional object: 🙋 explained
 - Data structures
   - Array: 🙋 explained
   - mixin: 👂 heard
@@ -77,7 +77,7 @@
   - Proxy: 🖐️ used
   - weak collections: 🎓 known
   - timers: 🖐️ used
-  - EventEmitter: 🎓 known
+  - EventEmitter: 🖐️ used
   - RegExp: 🖐️ used
   - Date: 🙋 explained
   - BigInt: 🖐️ used

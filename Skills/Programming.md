@@ -8,7 +8,7 @@
   - scalar: 🙋 explained
   - literal: 🙋 explained
   - expression: 🙋 explained
-  - heap: 🎓 known
+  - heap: 🙋 explained
   - function: 🙋 explained
   - procedure: 🙋 explained
   - method: 🙋 explained
@@ -24,7 +24,7 @@
   - conditions: 🙋 explained
   - loops: 🙋 explained
   - assignment: 🖐️ used
-  - regular expression: 🎓 known
+  - regular expression: 🖐️ used
   - interface: 🖐️ used
   - contract: 🖐️ used
   - module: 🖐️ used
@@ -86,21 +86,21 @@
   - garbage collection: 🖐️ used
   - refactoring: 🖐️ used
   - code review: 🖐️ used
-  - antipatterns: 🎓 known
+  - antipatterns: 🙋 explained
   - paradigm: 🙋 explained
   - algorithm: 🙋 explained
-  - magic numbers: 🎓 known
-  - hardcode: 🎓 known
+  - magic numbers: 🙋 explained
+  - hardcode: 🙋 explained
   - complexity: 👂 heard
-  - decomposition: 🖐️ used
-  - spaghetti: 🎓 known
+  - decomposition: 🙋 explained
+  - spaghetti: 🙋 explained
   - silver bullet: 👂 heard
   - not invented here
-  - dead code: 🎓 known
-  - unreachable code: 🎓 known
-  - duplicate code: 🎓 known
-  - exception: 🎓 known
-  - return early: 🎓 known
+  - dead code: 🙋 explained
+  - unreachable code: 🙋 explained
+  - duplicate code: 🙋 explained
+  - exception: 🙋 explained
+  - return early: 🙋 explained
   - unittest: 🖐️ used
   - git: 🖐️ used
   - github: 🖐️ used
